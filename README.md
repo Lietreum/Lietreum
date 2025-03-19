@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lietreum!
 
-Welcome to my little corner of GitHub. I'm passionate about technology, coding, and always eager to learn new things. Here's a bit about me:
+Welcome to my little corner of GitHub.
 
 ## 🔭 What I'm Working On
 - **Repository:** [life-in-weeks](https://github.com/Lietreum/life-in-weeks) - A map of my life, where each week I've been alive is a little box.
@@ -32,9 +32,8 @@ Welcome to my little corner of GitHub. I'm passionate about technology, coding, 
 - Contributing to open-source projects
 
 ## 📫 Get in Touch
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [Follow me](https://twitter.com/your_twitter_handle)
+- **Email:** [zeke@zeke.com](mailto:your-email@example.com)
+
 
 ## 🏆 GitHub Stats
 ![Lietreum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lietreum&show_icons=true&theme=radical)
